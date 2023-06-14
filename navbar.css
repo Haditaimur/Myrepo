@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Raleway:wght@300&display=swap');
+body{
+font-family: 'Cabin', sans-serif;
+font-size: 14px;
+box-sizing: border-box;
+    }
+.navbar{
+    padding: 10px 20px 10px 20px;
+    height: 45px;
+}
+.navbar a{
+    color: #8e939b;
+}
+.navbar a:hover{
+    background-color: #d9d9d9;
+}
+img{
+    margin-top: 5px;
+}
